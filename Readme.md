@@ -1,2 +1,2 @@
-<img src="https://raw.githubusercontent.com/yourusername/yourrepositoryname/main/images/project_image.jpg" alt="Description of the image">
+<img src="C:\Users\hp\Desktop\audi.jpg" alt="Description of the image">
 
