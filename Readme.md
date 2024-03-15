@@ -8,7 +8,6 @@ Implement data preprocessing techniques to clean and prepare the car dataset for
 
 Conduct a comprehensive analysis of car performance metrics, including fuel efficiency, acceleration, and handling characteristics. Evaluate various car models based on their performance attributes and identify opportunities for optimization and improvement. This analysis aims to enhance the overall driving experience and satisfaction for car owners.
 
-Focus on analyzing customer demographics and geographical location to understand preferences and purchasing behaviors. Specifically, we aim to identify which car models are most popular among different demographic groups (age, gender, income) and geographic regions.
 ### Predictive Modeling:
 
 Utilize predictive modeling techniques to forecast car sales trends and future demand. This involves building predictive models based on historical sales data and external factors (e.g., economic indicators, market trends) to provide insights for strategic planning and decision-making.
