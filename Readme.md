@@ -4,10 +4,9 @@
 ### Data Cleaning and Preprocessing:
 
 Implement data preprocessing techniques to clean and prepare the car dataset for analysis. This involves handling missing values, removing duplicates, and standardizing data formats to ensure data quality.
-### Sales Analysis:
+###Performance Analysis and Optimization:
 
-Analyze car sales data to uncover insights and propose solutions. This analysis aims to identify patterns, trends, and factors influencing car sales, such as model popularity, pricing strategies, and market demand.
-Customer Demographics and Location Analysis:
+Conduct a comprehensive analysis of car performance metrics, including fuel efficiency, acceleration, and handling characteristics. Evaluate various car models based on their performance attributes and identify opportunities for optimization and improvement. This analysis aims to enhance the overall driving experience and satisfaction for car owners.
 
 Focus on analyzing customer demographics and geographical location to understand preferences and purchasing behaviors. Specifically, we aim to identify which car models are most popular among different demographic groups (age, gender, income) and geographic regions.
 ### Predictive Modeling:
