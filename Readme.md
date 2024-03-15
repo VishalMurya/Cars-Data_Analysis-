@@ -1,11 +1,11 @@
 # Car (Data Analyst) PROJECT
 ## About Project
 #### The Main objectives of this case study are as follows:
-![image](https://github.com/VishalMurya/Cars-Data_Analysis-/assets/146605505/7403615a-3a7a-4882-9245-ae7ecd68b165)
-
 * ### Data Cleaning and Preprocessing:
 
 Implement data preprocessing techniques to clean and prepare the car dataset for analysis. This involves handling missing values, removing duplicates, and standardizing data formats to ensure data quality.
+![image](https://github.com/VishalMurya/Cars-Data_Analysis-/assets/146605505/7403615a-3a7a-4882-9245-ae7ecd68b165)
+
 * ### Performance Analysis and Optimization:
 
 Conduct a comprehensive analysis of car performance metrics, including fuel efficiency, acceleration, and handling characteristics. Evaluate various car models based on their performance attributes and identify opportunities for optimization and improvement. This analysis aims to enhance the overall driving experience and satisfaction for car owners.
