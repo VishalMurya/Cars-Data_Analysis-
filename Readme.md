@@ -1,7 +1,7 @@
 # Car (Data Analyst) PROJECT
 ## About Project
 #### The Main objectives of this case study are as follows:
-###* Data Cleaning and Preprocessing:
+* ### Data Cleaning and Preprocessing:
 
 Implement data preprocessing techniques to clean and prepare the car dataset for analysis. This involves handling missing values, removing duplicates, and standardizing data formats to ensure data quality.
 ###* Performance Analysis and Optimization:
